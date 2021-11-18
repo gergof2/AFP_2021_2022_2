@@ -11,3 +11,12 @@ Adatvédelmi szempontokból megfelel az uniós elvárásoknak, ingyenes és magy
 
 - A rendszernek nem célja hogy az embereket megfigyelés alatt tartsa, és magát az üzeneteket
 tárolva információkkal szolgálja ki a nagyobb cégóriásokat!
+
+## Jelenlegi helyzet
+
+- Mivel a magyar állam törvényeiben egyre jobban teret nyer az informatika szabályozása,
+ezért a nagy vállalatok vagy alkalmazkodnak ehhez a lépéshez, vagy kivonulnak a piacról.
+A nagyobb vállalatok álltalában nem akarnak alkalmazkodni a reklámfelületek adózási
+szabályaihoz, így inkább elhagyják a piacot. Ennek hatására hazánkban nincs aki
+biztosítsa az emberek számára az online térben való üzenetküldési lehetőséget.
+Ezért készül a mi szoftverünk hogy ezen igényeknek eleget tegyen.
