@@ -31,3 +31,12 @@ elfoglalt vagy ki van jelentkezve(offline). A chaten szöveges üzeneteket lehet
 képeket is, amiket le lehet tölteni. Az üzenetek alatt megtalálható egy kis menürész, ahol 
 lehetőség van reagálni az adott üzenetre, vagy ha saját üzenetünk alatt vagyunk, van 
 lehetőségünk módosítani az üzenet tartalmát.
+
+### Rendszer futtatása saját gépen:
+
+A letöltött mappában található afp2021_Database
+(AFP2021\web\application\database) fájlt egy xampp/wamp 
+program segítségével, a program htdocs mappájában kell elhelyezni, majd ezt követően az adott 
+alkalmazásban elindítani az Apache és a MySQL részt. Ha ezzel megvagyunk, akkor már csak az 
+adatbázist kell beimportálnunk a phpmyadminba, majd elindítani az alkalmazást/megnyitni
+böngészőn keresztül a localhost-ot.
