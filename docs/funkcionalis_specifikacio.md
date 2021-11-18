@@ -88,3 +88,30 @@ képeken keresztül üzenetekkel vagy hangokall. Minnél többet beszélnek egym
 - A program felülete:
 
 ![Image](https://github.com/gergof2/AFP2021_2022_2/docs/images/AFP_pictue_plan.jpg)
+
+## Forgatóköny
+
+- A felhasználónak elösször be kell lépnie a program használatához. A netes felületen ehez egy kis
+segítség fogadja, és információk magáról az alakalmazásról.
+
+- Amennyiben még nem regisztrált az oldalra ezt megteheti egy regisztációs fülön keresztül
+itt elkérünk tölle egy e mail címet és/vagy felhasználónevet meg egy jelszót. A továbbiakban
+ezzel a párossal tud belépni a felhasználó.
+
+- Miután a felhasználó belépett a login oldalról átírányítjuk a "cset" oldalra ahol a közösen
+belépett felhasználókkal tud kommunikálni. Itt láthatja a felhasználó, hogy ki van fent,
+ki elfoglalt, tétlen, vagy nincs éppen fent.
+
+- Minden uzenetküldésnél a send gombra kell kattintani , és az alkalmazás folyamatosan a legutolsó
+üzenetre ugrik le (auto scroll) 
+
+- Az üzeneteket minden közös BELÉPETT felhasználó láthatja (aki a gép előtt tartózkodik XD) 
+
+- Bizonyos eltelt idő után ha a felhasználó nem nyúl a programba az állapota elérhetőböl átvált ellősször
+afk állaporta majd később offline állapotba , mikor az utóbbi megtörténik akkor a program autómatikusan
+kijelentkezteti a felhasználót
+
+- Saját magának is tudja változtatni a státuszát már amennyiben szeretné, kilépés gombal autómatikusan offline
+állapotba kerül.
+
+- A rendszer autómatikusan oszt rangokat bizonyos mennyiségű üzenet elküldése után pl: kezdö haladó veterán
