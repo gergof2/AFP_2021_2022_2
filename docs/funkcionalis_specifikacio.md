@@ -36,3 +36,19 @@ Ezért készül a mi szoftverünk hogy ezen igényeknek eleget tegyen.
 |Felület| K_8.2 | Hagüzenet küldése | A felhasználók hangüzeneteket is küldhetnek egymásnak |
 |Felület| K_8.3 | Üzenetek Naplózása | A felhasználók üzeneteinél megjelenik mikor küldték |
 |Extra fungcio| K_9 | hangulatjelek | A felhasználók bizonyos betűkombinációval hangulatjeleket küldhetnek ( smile )
+
+## Jelenlegi üzleti folyamatok modellje
+
+- A mai világban már mindenki ismeri a Messenger fogalmát, rengeteg üzenetküldő rendszer létezik 
+ezek közül kerül ki a mi rendszerünk a "Timber" .
+
+- A legelső chat rendszert Talkomatic-nak nevezték, amit Doug Brown és David Wooley hozott létre,
+a PLATO (Programmed Logic for Automatic Teaching Operations) rendszeren, az Illinois-i egyetemen,
+1973-ban. Számos csatornát ajánlott fel, amelyekre legfeljebb öt ember csatlakozhatott. 
+ 
+- A mi rendszerünk célja valamelyféle innováció hozzáadása ahhoz, amit 1973-ban kezdtek el és mai napig fejlődött.
+Mindeközben a szolgáltatásunk stabilitása prioritást élvez. A felhasználó chat résztvevőn képes lesz majd valamikor
+egyértelmű kezelőfelületen az adott chat szobán keresztül akadálymentesen tud a többi résztvevővel kommunikálni.
+
+- Az alkalmazás elérhető webes felületen, és letölthető formátumban is.
+                   
