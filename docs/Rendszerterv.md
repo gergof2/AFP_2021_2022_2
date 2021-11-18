@@ -26,3 +26,14 @@ Amikor a felhasználó az oldalt/a programot megnyitja, egy belépési menü fog
 
 A chat felületen lehetőség van beállítani a saját státuszunkat, amit 4 féle státuszból választhatunk ki: elérhető, tétlen, elfoglalt vagy ki van jelentkezve(offline).A chaten szöveges üzeneteket lehet küldeni, illetve képeket is, amiket le lehet tölteni. Az üzenetek alatt megtalálható egy kis menürész, ahol lehetőség van reagálni az adott üzenetre, vagy ha saját üzenetünk alatt vagyunk, van lehetőségünk módosítani az üzenet tartalmát.
 
+## Rendszer futtatása saját gépen 
+A letöltött mappában található php fájlokat egy xampp/wamp program segítségével, adott mappákban kell elhelyezni, majd ezt követően az adott alkalmazásban elindítani az Apache és a MySQL részt. Ha ezzel megvagyunk, akkor már csak az adatbázist kell beimportálnunk a phpmyadminba.
+
+## Projekt terv
+
+#### __Projektszerepkörök, felelősségek:__  
+        project manager: Seres Péter
+        server & database development felelős: Kerepesi Gergő
+        web development felelős: Szalóki Dávid, Ungi Keve
+        Tesztelésért felelős: Seres Péter
+        
