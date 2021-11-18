@@ -1,6 +1,8 @@
 # Funkcionális Specifikáció
 
 ## Rövid áttekintés
+- (mielőtt még a szoftver elkészül)
+- (tartalma 2-3 mondat)
 
 - A rendszer célja egy dobozos szoftver megvalósítása. Mivel a hazánkban népszerű üzenetküldő 
 rendszerek technológiai elavultságuk és a céges pénzügyi helyzet miatt kezdenek
@@ -13,6 +15,8 @@ Adatvédelmi szempontokból megfelel az uniós elvárásoknak, ingyenes és magy
 tárolva információkkal szolgálja ki a nagyobb cégóriásokat!
 
 ## Jelenlegi helyzet
+- (mielőtt még a szoftver elkészül)
+- (tartalma 5-10 mondat)
 
 - Mivel a magyar állam törvényeiben egyre jobban teret nyer az informatika szabályozása,
 ezért a nagy vállalatok vagy alkalmazkodnak ehhez a lépéshez, vagy kivonulnak a piacról.
@@ -38,6 +42,9 @@ Ezért készül a mi szoftverünk hogy ezen igényeknek eleget tegyen.
 |Extra fungcio| K_9 | hangulatjelek | A felhasználók bizonyos betűkombinációval hangulatjeleket küldhetnek ( smile )
 
 ## Jelenlegi üzleti folyamatok modellje
+### (A rendszer leírása röviden)
+- (mielőtt még a szoftver elkészül)
+- (tartalma 5-10 mondat)
 
 - A mai világban már mindenki ismeri a Messenger fogalmát, rengeteg üzenetküldő rendszer létezik 
 ezek közül kerül ki a mi rendszerünk a "Timber" .
