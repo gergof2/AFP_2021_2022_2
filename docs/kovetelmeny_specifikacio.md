@@ -19,3 +19,15 @@ C# nyelven megírt, letölthető változat is kikerül. Az alkalmazáson belül
 a felhasználó láthatja, hogy ki van fent, ki elfoglalt, tétlen, vagy nincs éppen fent.
 Üzeneteket és képeket tud küldeni, a képeket letölteni. Tud reagálni az előzőekre, és emojikat
 használni.
+
+## Elvárt működés
+
+Amikor a felhasználó az oldalt/a programot megnyitja, egy belépési menü fogadja, ahol vagy
+bejelentkezik, vagy ha nincs még regisztrációja, akkor először a rendszer megkéri a
+felhasználót, hogy regisztráljon. Ezt követően a felhasználó felcsatlakozik egy online chat
+felületre, ahol a többi felhasználóval tud kommunikálni. A chat felületen lehetőség van 
+beállítani a saját státuszunkat, amit 4 féle státuszból választhatunk ki: elérhető, tétlen, 
+elfoglalt vagy ki van jelentkezve(offline). A chaten szöveges üzeneteket lehet küldeni, illetve 
+képeket is, amiket le lehet tölteni. Az üzenetek alatt megtalálható egy kis menürész, ahol 
+lehetőség van reagálni az adott üzenetre, vagy ha saját üzenetünk alatt vagyunk, van 
+lehetőségünk módosítani az üzenet tartalmát.
