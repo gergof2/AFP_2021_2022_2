@@ -147,3 +147,7 @@ Minél többet beszélnek egymássla annál magasabb rangot kaphatnak a rendszer
 - Mobilos aplikáció nem támogatott
 - Nincsenek vásárolt szoftverkomponensek.
 
+Szerverkonponensek listája:
+  - 2x AMD EPYC 7702
+  - 124Gb GDDR4
+  - 10 x 4096Gb WD HDD
