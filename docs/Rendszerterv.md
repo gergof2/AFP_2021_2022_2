@@ -86,3 +86,39 @@ Minél többet beszélnek egymássla annál magasabb rangot kaphatnak a rendszer
 
 - Törvényi előírások:
   - GDPR-nak való megfelelés
+
+## Funkcionális terv
+
+### Rendszerszereplők:  
+  - Admin  
+  - Általános felhasználó  
+
+### Rendszerhasználati esetek és lefutásaik:
+- ADMIN:  
+  - Beléphet bármilyen szereplőként teljes hozzáférése van a rendszerhez
+  - A felhasználói adatokat látják, változtathatják
+  - Felhasználó hozzáadására, törlésére van lehetőségük
+  - Üzenet írása
+  - Üzenet szerkesztése
+  - Üzenet cenzúrázása
+  - Felhasználói adatok módosítása
+  - Üzenetek törlése
+  - Felhasználók ideiglenes némítása
+  - Felhasználók ideiglenes vagy végleges tiltása a szolgáltatásból
+
+- Felhasználó:  
+  - Beléphet webes felületen regisztrálás után
+  - Saját adataikat módosíthatják
+  - Felhasználó hozzáadására, törlésére van lehetőségük
+  - Üzenet írása
+  - Üzenet szerkesztése
+  - Felhasználói adatok módosítása
+  - Saját üzenetek törlése
+  
+- Bővitési lehetőségek:
+    - A felhasználó
+        - Hangulatjeleket is küldhet
+        - Képet fogadhat / küldhet
+        - Halgalapú kommunikáció a voice cheten
+        - rangokat szerezhet az üzenetei alapján
+
