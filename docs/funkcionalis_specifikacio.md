@@ -82,3 +82,9 @@ képeken keresztül üzenetekkel vagy hangokall. Minnél többet beszélnek egym
 - Kapcsolattartás >> K_3 (állapotjelző)
 - Megosztás >> K_8.1 (Üzenet küldés) stb
 - Élmény >> All (Az alkalmazás használata)
+                                               
+## Képernyő tervek
+
+- A program felülete:
+
+![Image](https://github.com/gergof2/AFP2021_2022_2/docs/images/AFP_pictue_plan.jpg)
