@@ -37,3 +37,24 @@ A letöltött mappában található php fájlokat egy xampp/wamp program segíts
         web development felelős: Szalóki Dávid, Ungi Keve
         Tesztelésért felelős: Seres Péter
         
+#### __Ütemterv:__
+
+|Funkció/Story|Feladat/Task|Prioritás|Becslés|Aktuális Becslés|Eltelt Idő|Hátralévő idő|
+|-------------|------------|---------|-------|----------------|----------|-------------|
+|Követelmény Specifikáció| | 1 | 2 hét | 2 hét | 1 hét | 1 hét |
+|Funkcionális Specifikáció| | 1 | 2 hét | 2 hét | 1 hét | 1 hét |
+|Rendszerterv| | 1 | 2 hét | 2 hét | 1 hét | 1 hét |
+|Adattárolás|Adatmodell megtervezése | 2 | 2 hét | 2 hét | 0 hét | 2 hét |
+|Adattárolás| Adatbázis megvalósítása a szerveren | 2 | 2 hét | 2 hét | 0 hét | 2 hét |
+|Szerverfüggvények| | 2 | 2 hét | 2 hét | 0 hét | 2 hét |
+|Web| Képernyőtervek elkészítése | 3 | 3 hét | 2 hét | 0 hét | |
+|Web| Prototípus elkészítése | 3 | 3 hét | 2 hét | 0 hét | |
+|Web| Adatbázis létrehozása | 3 | 3 hét | 2 hét | 0 hét | |
+|Web| Menüstruktúra elkészítése | 3 | 3 hét | 2 hét | 0 hét | |
+|Honlap| Kezdőlap funkciók elkészítése | 3 | 3 hét | 2 hét | 0 hét | |
+|Honlap| Login funkció megvalósítás | 3 | 3 hét | 2 hét | 0 hét | |
+|Honlap| Regisztráció funkció megvalósítás | 3 | 3 hét | 2 hét | 0 hét | |
+|Website| Üzenetküldés és kapcsolódó funkciók megvalósítás | 4 | 3 hét | 2 hét | 0 hét | |
+|Website| Tesztelés | 4 | 3 hét | 2 hét | 0 hét | |
+|Website| Kiegésszítő fungciók létrehozása | 4 | 3 hét | 2 hét | 0 hét | |
+|Website| Kieg.fungc. Tesztelése | 4 | 3 hét | 2 hét | 0 hét | |
