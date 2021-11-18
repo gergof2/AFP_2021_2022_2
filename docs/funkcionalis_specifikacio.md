@@ -52,3 +52,17 @@ egyértelmű kezelőfelületen az adott chat szobán keresztül akadálymentesen
 
 - Az alkalmazás elérhető webes felületen, és letölthető formátumban is.
                    
+## Igényelt üzleti folyamatok modellje
+
+- Az emberek számára szeretnénk megkönnyíteni a távolságtartást. Szeretnénk csoportoknak , közösségeknek egy olyan alkamazást
+nyújtani ami megkönnyíti nekik a beszélgetéseket, és az üzenetváltást. Megoszthatják egymással az élményeiket 
+képeken keresztül üzenetekkel vagy hangokall. Minnél többet beszélnek egymássla annál magasabb rangot kaphatnak a rendszertöl
+ , ha valaki nagyon aktív az feljebb lép , ha pedig inaktív akkor leesik rangban. A Felhasználók könnyebb tájékozódás érdekében
+ jelölni fogjuk hogy elérhető e , vagy épp elfoglalt esetleg inaktív állapotban van.
+
+## Bővitésre szánt folyamatok modellje
+- Az alkalmazásunk bővíthető pl:
+    - Voice chat
+    - Emoji 
+    - Videó chat
+    - Pingelési módszer
