@@ -158,3 +158,28 @@ Fejlesztői eszközök:
   - Xampp Server
   - Sublime Text
   - Visual Studio Code
+  
+### Tesztterv
+
+- A rendszerterv szerint implementált szoftver tesztelésének célja, hogy ellenőrizze az Üzleti folyamatok
+modellje című pontban meghatározott folyamatok helyes, specifikáció szerinti lefutását, valamint hogy a
+kliens webes felület felhasználóbarát módon jelenik meg, és használható különböző hardver és szoftverkörnyezetben.
+
+- A tesztelés során használt kiszolgáló hardverkonfigurációja a telepítés során használt hardverrel
+kompatibilis, teljesítményben (processzor, operatív memória, háttértár) nem tér el jelentősen.
+A telepítéshez természetesen az általunk ajánlott konfiguráció kerül beszerzésre a felhasználó által.
+
+- A tesztelés során használt kliens hardverek a napjainkban általánosan elterjedt hardverkonfigurációjú
+PC-k illetve laptopok, melyeken a leggyakrabban használt böngészőkön (Google Chrome, Mozilla Firefox,
+Microsoft Edge) teszteljük a rendszert az alábbiakban részletezettek szerint. A minimum hardverkonfiguráció:
+Intel Celeron processzor, 4GB RAM, 128GB HDD, a képernyők felbontása: 1280x1024, 1920x1080.
+
+- A tesztelés során az üzleti folyamatokhoz tartozó különböző forgatókönyvek eredményét vizsgáljuk.
+Amennyiben az elvártnak megfelelő eredményt kapjuk, a teszteset sikeresnek tekinthető, ellenkező esetben 
+a hibát rögzítjük a tesztjegyzőkönyvben. Ezt követően a feljegyzett hibákat javítjuk a szoftverben, és újbóli 
+tesztelésnek vetjük alá a rendszert.
+
+- A rendszer alábbiakban leírt tesztelésének előfeltétele, hogy az adatbázisba phpMyAdmin segítségével
+felvegyünk egy első adminisztrátori jogosultsággal rendelkező felhasználót a User táblába.
+Felhasználónév: admin, a további adatok a fejlesztő-tesztelő személyes adatai lesznek.
+Ezzel belépve tudjuk tesztelni a Felhasználó funkcióit.
