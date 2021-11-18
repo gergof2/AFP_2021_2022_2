@@ -61,3 +61,38 @@ böngészőn keresztül a localhost-ot.
 | Frontend | F8 | Emojik | Emojik használata |
 | Frontend | F9 | Rang rendszer | Különböző felhasználói rang |
 | Frontend | F10 | Név/Rang megjelölés | Chat üzenetben a felhasználók megjelölhetnek egy másik felhasználót vagy rangot |
+
+## Adatbázis
+
+3 adatbázis táblát fogunk használni a projekt megvalósításához.
+
+1. A user tábla:
+   
+   ![Image](https://github.com/gergof2/AFP2021_2022_2/docs/images/user.png)
+
+   - userid: a felhasználóhoz tartozó azonosító
+   - username: felhasználónév
+   - password: jelszó
+   - email: a felhasználó email címe
+   - registerdate: mikor regisztrált
+   - statusid: a szoftverben éppen látható státusza(offline, aktív, elfoglalt, stb.)
+
+2. userlogin tábla:
+   
+   ![Image](https://github.com/gergof2/AFP2021_2022_2/docs/images/userlogin.png)
+
+   - id: egy adott belépés sorszáma
+   - userid: a user táblával összekötött azonosító
+   - timedate: mikor lépett fel a felhasználó
+   - ipaddress: a felhasználóü által használt eszköz ip címe
+   - platform: honnan lépett fel a felhasználó(program, valamely böngésző)
+
+3. messages tábla:
+
+    ![Image](https://github.com/gergof2/AFP2021_2022_2/docs/images/messages.png)
+
+    - id: egy adott üzenet sorszáma
+    - userid: a user táblával összekötött azonosító
+    - text: a felhasználó által küldött üzenet
+    - files: a felhasználó által küldött fájlok elérésí útvonala
+    - timedate: mikor írta az üzenetet a felhasználó
