@@ -58,3 +58,8 @@ A letöltött mappában található php fájlokat egy xampp/wamp program segíts
 |Website| Tesztelés | 4 | 3 hét | 2 hét | 0 hét | |
 |Website| Kiegésszítő fungciók létrehozása | 4 | 3 hét | 2 hét | 0 hét | |
 |Website| Kieg.fungc. Tesztelése | 4 | 3 hét | 2 hét | 0 hét | |
+
+## Mérföldkövek
+
+- A prototipus elkészítése
+- Vevő érdeklődésének felkeltése
