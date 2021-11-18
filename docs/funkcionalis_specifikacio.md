@@ -65,4 +65,12 @@ képeken keresztül üzenetekkel vagy hangokall. Minnél többet beszélnek egym
     - Voice chat
     - Emoji 
     - Videó chat
-    - Pingelési módszer
+    - Pingelési módszer	
+## Használati esetek
+
+- Beszélgetés
+- Szórakozás
+- Kapcsolattartás
+- Megosztás
+- Élmény
+
