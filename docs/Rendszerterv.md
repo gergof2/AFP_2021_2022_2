@@ -122,3 +122,21 @@ Minél többet beszélnek egymássla annál magasabb rangot kaphatnak a rendszer
         - Halgalapú kommunikáció a voice cheten
         - rangokat szerezhet az üzenetei alapján
 
+### Menü-hierarchiák
+
+  -A menürendszert egy, a weboldal fejléce alatt található vízszintes,lenyíló menüket is tartalmazó
+   navigációs sávban építettük fel.
+
+  - #### Bejelentkezés:
+    - Bejelentkezés
+    - Regisztráció
+    - Elfelejtett jelszó
+    - Elfelejtett felhasználónév
+    - Help
+    
+  - #### Főmenü
+    - Üzenet lista
+    - Üzenet szövegdoboz
+    - Felhasználói lista
+    - Preferenciák
+    - Státuszbeállítás
