@@ -183,3 +183,13 @@ tesztelésnek vetjük alá a rendszert.
 felvegyünk egy első adminisztrátori jogosultsággal rendelkező felhasználót a User táblába.
 Felhasználónév: admin, a további adatok a fejlesztő-tesztelő személyes adatai lesznek.
 Ezzel belépve tudjuk tesztelni a Felhasználó funkcióit.
+
+### Telepítési terv
+
+- Fizikai telepítési terv:
+    - Szükség van egy adatbázis szerverre, amely közvetlenül csatlakozik a webszerververhez.
+    - A webszerverre közvetlenül az internetről kapcsolódnak rá a kliensek.
+    
+- Szoftver telepítési terv:
+    - A szoftver webes felületéhez csak egy ajánlott a böngésző telepítése szükséges
+     ( Google Chrome, Firefox, Opera, Edge) külön szoftver nem kell hozzá.
