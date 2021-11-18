@@ -87,7 +87,7 @@ képeken keresztül üzenetekkel vagy hangokall. Minnél többet beszélnek egym
 
 - A program felülete:
 
-![Image](https://github.com/gergof2/AFP2021_2022_2/docs/images/AFP_pictue_plan.jpg)
+![Image](https://github.com/gergof2/AFP_2021_2022_2/blob/main/docs/images/AFP_pictue_plan.jpg)
 
 ## Forgatóköny
 
