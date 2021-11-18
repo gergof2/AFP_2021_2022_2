@@ -73,3 +73,16 @@ Az emberek számára szeretnénk megkönnyíteni a távolságtartást. Szeretné
 
 Minél többet beszélnek egymássla annál magasabb rangot kaphatnak a rendszertöl, ha valaki nagyon aktyv az feljebb lép , ha pedig inaktív akkor leesik rangban. A Felhasználók könnyebb tájékozódás érdekében jelölni fogjuk hogy elérhető e , vagy épp elfoglalt esetleg inaktív állapotban van.
 
+## Követelmények
+- Funkcionális követelmények:
+  - Felhasználók adatainak tárolása
+  - Üzenetek üzembehelyezés utáni örökös tárolása
+  - webes felületen való működés
+  - További közösségi funkciók 
+
+- Nem funkcionális követelmények:
+  - A felhasználók csak saját adataikhoz férnek hozzá változtatáshoz, 
+  - Megtekintéshez más felhasználók egyes adataihoz hozzáférnek
+
+- Törvényi előírások:
+  - GDPR-nak való megfelelés
