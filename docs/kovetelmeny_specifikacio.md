@@ -96,3 +96,19 @@ böngészőn keresztül a localhost-ot.
     - text: a felhasználó által küldött üzenet
     - files: a felhasználó által küldött fájlok elérésí útvonala
     - timedate: mikor írta az üzenetet a felhasználó
+
+## A rendszerre vonatkozó törvények, rendeletek, szabványok és ajánlások felsorolása
+
+- AZ EURÓPAI PARLAMENT ÉS A TANÁCS (EU) 2016/679 RENDELETE
+(2016. április 27.)
+a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az 
+ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről 
+(általános adatvédelmi rendelet)
+
+- 2011.évi CXII. törvény az információs önrendelkezési jogról és az információszabadságról
+
+- 1.§2 E törvény célja a hatálya alá tartozó tárgykörökben az adatok kezelésére vonatkozó 
+alapvető szabályok meghatározása annak érdekében, hogy a természetes személyek magánszféráját az 
+adatkezelők tiszteletben tartsák, valamint a közügyek átláthatósága a közérdekű és a közérdekből 
+nyilvános adatok megismeréséhez és terjesztéséhez fűződő jog érvényesítésével megvalósuljon.
+
