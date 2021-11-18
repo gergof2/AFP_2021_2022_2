@@ -40,3 +40,14 @@ program segítségével, a program htdocs mappájában kell elhelyezni, majd ezt
 alkalmazásban elindítani az Apache és a MySQL részt. Ha ezzel megvagyunk, akkor már csak az 
 adatbázist kell beimportálnunk a phpmyadminba, majd elindítani az alkalmazást/megnyitni
 böngészőn keresztül a localhost-ot.
+
+## Szükséges funkciók listája
+
+| Modul | ID | Név | Leírás |
+| :-----: | :--: | :-----: | :--------: |
+| Backend | F1 | Adatbázis | Az adatbázis tárolja az alkalmazás által használt adatokat |
+| Backend | F2 | Funkciók | A felhasználó által használt parancsok végrehajtása |
+| Frontend | F3 | Felhasználó beléptető oldal | A felhasználó beléptetésére használt oldal. |
+| Frontend | F4 | Regisztrációs oldal | A felhasználó regisztrációjára használt oldal. |
+| Frontend | F5 | Chat oldal | Beléptetés után megjelenő felület. |
+|Frontend | F6 | Státuszállítás | A felhasználók saját állapotukat tudja állítani |
