@@ -51,3 +51,13 @@ böngészőn keresztül a localhost-ot.
 | Frontend | F4 | Regisztrációs oldal | A felhasználó regisztrációjára használt oldal. |
 | Frontend | F5 | Chat oldal | Beléptetés után megjelenő felület. |
 |Frontend | F6 | Státuszállítás | A felhasználók saját állapotukat tudja állítani |
+
+## További lehetséges funkciók listája
+
+| Modul | ID | Név | Leírás |
+| :-----: | :--: | :-----: | :---------: |
+| Backend | F6 | Voice chat | Hang alapú kommunikáció |
+| Frontemd | F7 | Voice chat | Hang alapú kommunikációhoz használható szoba |
+| Frontend | F8 | Emojik | Emojik használata |
+| Frontend | F9 | Rang rendszer | Különböző felhasználói rang |
+| Frontend | F10 | Név/Rang megjelölés | Chat üzenetben a felhasználók megjelölhetnek egy másik felhasználót vagy rangot |
