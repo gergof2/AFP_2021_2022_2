@@ -115,3 +115,18 @@ kijelentkezteti a felhasználót
 állapotba kerül.
 
 - A rendszer autómatikusan oszt rangokat bizonyos mennyiségű üzenet elküldése után pl: kezdö haladó veterán
+
+## Fogalom szótár 
+
+- **Afk állaot** : egy olyan állapot amikor az illető nem tartózkodik a gép előtt , vagy tétlen esetleg nem nyűl hozzá
+(away from keyboard)
+
+- **Smile** : hangulatjel ( a kis sárga mosolygós fejecske XD )
+
+- **felület** : amit a felhasználó láthat (frontend)
+
+- **modifikáció** : változtatás ( a programban megváltozik valami)
+
+- **dobozos szoftver** : nem megrendelő álltal kért termék , nagy közönségnek készűlt szoftver
+
+- **voice chat** : egy chat szoba ahol a felhasználók hangal kommunikálnak
