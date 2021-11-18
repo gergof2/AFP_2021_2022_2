@@ -63,3 +63,13 @@ A letöltött mappában található php fájlokat egy xampp/wamp program segíts
 
 - A prototipus elkészítése
 - Vevő érdeklődésének felkeltése
+
+
+## Üzleti folyamatok modelje
+
+![Image](https://github.com/gergof2/AFP_2021_2022_2/blob/main/docs/images/BusinessModel.png)
+
+Az emberek számára szeretnénk megkönnyíteni a távolságtartást. Szeretnénk csoportoknak , közösségeknek egy olyan alkamazást nyújtani ami megkönnyíti nekik a beszélgetéseket, és az üzenetváltást. Megoszthatják egymással az élményeiket képeken keresztül üzenetekkel vagy hangokall.  
+
+Minél többet beszélnek egymássla annál magasabb rangot kaphatnak a rendszertöl, ha valaki nagyon aktyv az feljebb lép , ha pedig inaktív akkor leesik rangban. A Felhasználók könnyebb tájékozódás érdekében jelölni fogjuk hogy elérhető e , vagy épp elfoglalt esetleg inaktív állapotban van.
+
