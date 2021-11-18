@@ -74,3 +74,11 @@ képeken keresztül üzenetekkel vagy hangokall. Minnél többet beszélnek egym
 - Megosztás
 - Élmény
 
+
+## Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
+
+- Beszélgetés >> K_8.1 (Üzenet küldés)
+- Szórakozás >>  K_9 (smile)
+- Kapcsolattartás >> K_3 (állapotjelző)
+- Megosztás >> K_8.1 (Üzenet küldés) stb
+- Élmény >> All (Az alkalmazás használata)
