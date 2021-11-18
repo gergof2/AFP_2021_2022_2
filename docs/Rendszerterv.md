@@ -140,3 +140,10 @@ Minél többet beszélnek egymássla annál magasabb rangot kaphatnak a rendszer
     - Felhasználói lista
     - Preferenciák
     - Státuszbeállítás
+
+### Fizikai környezet
+
+- Az alkalmazás webes felületre készül.
+- Mobilos aplikáció nem támogatott
+- Nincsenek vásárolt szoftverkomponensek.
+
