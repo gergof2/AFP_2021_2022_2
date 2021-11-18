@@ -151,3 +151,10 @@ Szerverkonponensek listája:
   - 2x AMD EPYC 7702
   - 124Gb GDDR4
   - 10 x 4096Gb WD HDD
+  
+Fejlesztői eszközök:
+  - IntelliJ Idea Community
+  - Visual Studio Community
+  - Xampp Server
+  - Sublime Text
+  - Visual Studio Code
