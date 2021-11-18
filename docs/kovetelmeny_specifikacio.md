@@ -112,3 +112,10 @@ alapvető szabályok meghatározása annak érdekében, hogy a természetes szem
 adatkezelők tiszteletben tartsák, valamint a közügyek átláthatósága a közérdekű és a közérdekből 
 nyilvános adatok megismeréséhez és terjesztéséhez fűződő jog érvényesítésével megvalósuljon.
 
+## Szótár
+
+- **backend**: adat-hozzáférési réteg a szoftverben.
+- **frontend**: felület a felhasználó és a backend között.
+- **voice chat**: hang alapú kommunikáció.
+- **emoji**: hangulatjel.
+- **dobozos szoftver**: nagy közönségnek készűlt termék.
