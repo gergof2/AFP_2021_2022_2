@@ -10,4 +10,13 @@ class Controller {
         require_once 'application/models/'.$model.'.php';
         return new $model;
     }
+
+    public function load_view($view, $data = []) {
+        require_once 'application/views/template/header.php';
+        require_once 'application/views/'.$view.'.php';
+        if ( empty($_SESSION['username'])) {
+            require_once 'application/views/template/footer.php';
+        }
+        
+    }
 }
