@@ -35,4 +35,14 @@ class Model {
         $connection = null;
         return $result;
     }    
+    
+    public function executeDML($queryString, $queryParams = []) {
+        $connection = $this->getConnection();  
+        $statement = $connection->prepare($queryString);
+        $success = $statement->execute($queryParams);
+        if (!$success) $result = $statement->errorInfo()[2];
+        $statement->closeCursor();
+        $connection = null;
+        if (!$success) return $result;
+    }    
 }
