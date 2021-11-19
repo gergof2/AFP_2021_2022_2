@@ -16,4 +16,14 @@ class Model {
         $connection = null;
         return $result;
     }
+    
+    public function getRecord($queryString, $queryParams = []) {
+        $connection = $this->getConnection();  
+        $statement = $connection->prepare($queryString);
+        $success = $statement->execute($queryParams);
+        $result = $success ? $statement->fetch() : $statement->errorInfo()[2];
+        $statement->closeCursor();
+        $connection = null;
+        return $result;
+    }
 }
