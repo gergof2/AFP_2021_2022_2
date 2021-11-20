@@ -49,3 +49,11 @@
         </div>
     </div>
 </div>
+
+
+<script>
+    messageContainer = document.getElementsByClassName('messageContainer')[0];
+    messageContainer.scrollBy(0, messageContainer.scrollHeight);
+</script>
+
+ <script type="text/javascript"></script>  
