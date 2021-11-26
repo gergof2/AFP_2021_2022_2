@@ -12,4 +12,11 @@ class Home extends Controller {
 
 
     }
+    ///////////////////
+    //nav link
+    # http://localhost/
+    public function index()
+    {           
+        $this->load_view('home/index');
+    }
 }
