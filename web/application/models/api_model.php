@@ -9,4 +9,20 @@ class api_model extends Model {
         );        
         return $this->getRecord($query, $query_params);       
     }
+    
+    public function postRegister($username, $email, $password){
+        $query =
+        "INSERT INTO user (username, email, password, registerdate, statusid) VALUES(:username, :email, :password, NOW(), 1)";
+        $query_params = array( 
+        ':username' => $username,
+        ':email' => $email, 
+        ':password' => $password
+        );
+        $result = $this->executeDML($query, $query_params);
+        if (!empty($result)) {
+            return "Registration failed: ".$result;
+        }else{
+            return null;
+        }  
+    }
 }
