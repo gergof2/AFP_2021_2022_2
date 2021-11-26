@@ -29,4 +29,9 @@ class Home extends Controller {
         $this->load_view('home/login');
     }
 
+    public function logout() {
+        session_destroy();
+        $this->redirect('/');
+    }
+
 }
