@@ -29,5 +29,21 @@ class Api extends Controller {
         }
     }
 
+    public function login()
+    {        
+        if(!empty($_POST['username']) && !empty($_POST['password']))
+        {
+            $result =  $this->model->getLogin($_POST['username'], $_POST['password']);
+            if (isset($result['username'])) {
+                $_SESSION['username'] = $result['username'];
+                $_SESSION['id'] = $result['id'];
+                $this->redirect('/message');
+            } else {
+                $_SESSION['message'] = 'Login failed!';
+                $this->redirect('/login');
+            }
+        }
+    }
+
 }
 
