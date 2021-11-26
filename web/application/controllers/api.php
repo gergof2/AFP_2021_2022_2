@@ -9,5 +9,11 @@ class Api extends Controller {
         $this->model = $this->load_model('api_model');
     }
 
+    # http://localhost/api GET
+    public function index()
+    {
+        $this->load_view('home/index');
+    }
+
 }
 
