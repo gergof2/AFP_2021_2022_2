@@ -50,4 +50,10 @@ class api_model extends Model {
         }else echo("Status changed!"); 
 
     }
+
+    public function getUsers(){
+        $query = "SELECT username, statusid from user ORDER BY statusid";
+        $result = $this->getList($query);
+        return $result;
+    }
 }
