@@ -77,5 +77,11 @@ class Api extends Controller {
         else $this->model->statusChange($_SESSION['id'], $_POST['statusid']);
     }
 
+    public function getusers(){
+        $response = $this->model->getUsers();
+        $out = array_values($response);
+        echo json_encode($out);    
+    }
+ 
 }
 
