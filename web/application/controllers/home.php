@@ -19,4 +19,9 @@ class Home extends Controller {
     {           
         $this->load_view('home/index');
     }
+    public function dataTheme()
+    {
+        $_SESSION['data-theme'] = $_GET['theme'];
+        header("Refresh:0");      
+    }
 }
