@@ -34,4 +34,8 @@ class Home extends Controller {
         $this->redirect('/');
     }
 
+    public function Howtoregister(){
+        
+        $this->load_view('/helper/Howtoregister');
+    }
 }
