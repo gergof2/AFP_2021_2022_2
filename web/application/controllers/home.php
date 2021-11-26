@@ -38,4 +38,9 @@ class Home extends Controller {
         
         $this->load_view('/helper/Howtoregister');
     }
+    public function registration(){
+        
+        $this->load_view('home/registration');
+    }
+
 }
