@@ -69,5 +69,13 @@ class Api extends Controller {
          }
     }
 
+
+    public function statuschange(){
+        if($_POST['statusid'] < 1 || $_POST['statusid'] > 4){
+            echo("There is no status id!");
+        }
+        else $this->model->statusChange($_SESSION['id'], $_POST['statusid']);
+    }
+
 }
 
