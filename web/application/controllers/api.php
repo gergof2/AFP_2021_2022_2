@@ -83,5 +83,11 @@ class Api extends Controller {
         echo json_encode($out);    
     }
  
+    public function messages(){
+        $response = $this->model->getMessages();
+        $out = array_values($response);
+        echo json_encode($out);     
+    }
+
 }
 
