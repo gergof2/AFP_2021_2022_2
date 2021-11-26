@@ -37,4 +37,17 @@ class api_model extends Model {
             echo"Failed to send message: ".$result; 
         }else echo("Message sent!"); 
     }
+
+    public function statusChange($userid, $statusid){
+        $query = "UPDATE `user` SET `statusid` = :statusid WHERE `id` = :userid";
+        $query_params = array( 
+        ':statusid' => $statusid,
+        ':userid' => $_SESSION['id']
+        );
+        $result = $this->executeDML($query, $query_params);
+        if (!empty($result)) {
+        echo"Failed status statement: ".$result; 
+        }else echo("Status changed!"); 
+
+    }
 }
