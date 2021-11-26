@@ -24,4 +24,9 @@ class Home extends Controller {
         $_SESSION['data-theme'] = $_GET['theme'];
         header("Refresh:0");      
     }
+
+    public function login(){
+        $this->load_view('home/login');
+    }
+
 }
