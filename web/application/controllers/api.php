@@ -60,5 +60,14 @@ class Api extends Controller {
         
     }
 
+    public function sendmessages(){
+        
+         if(!empty($_SESSION['username']))
+         {
+            $this->model->sendMessages($_SESSION['id'], $_POST['message']);
+            $this->redirect('/message');
+         }
+    }
+
 }
 
