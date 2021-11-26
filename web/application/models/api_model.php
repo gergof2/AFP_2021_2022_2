@@ -56,4 +56,17 @@ class api_model extends Model {
         $result = $this->getList($query);
         return $result;
     }
+
+    public function getMessages(){
+        //$query = "SELECT * FROM `messages`";
+        $query = "SELECT messages.id, username, text, timedate FROM messages INNER JOIN user ON messages.userid = user.id ORDER BY messages.id";
+        $result = $this->getList($query);
+        if($result == null)
+        {
+            die("No messages!");
+        }
+        else {
+            return $result;
+        }
+    }
 }
