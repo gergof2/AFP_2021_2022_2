@@ -25,4 +25,16 @@ class api_model extends Model {
             return null;
         }  
     }
+
+    public function sendMessages($userid, $text){
+    	$query = "INSERT INTO messages (userid, text, timedate) VALUES(:userid, :text, NOW())";
+        $query_params = array( 
+        ':userid' => $_SESSION['id'],
+        ':text' => $text
+        );
+        $result = $this->executeDML($query, $query_params);
+        if (!empty($result)) {
+            echo"Failed to send message: ".$result; 
+        }else echo("Message sent!"); 
+    }
 }
