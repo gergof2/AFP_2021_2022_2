@@ -43,4 +43,9 @@ class Home extends Controller {
         $this->load_view('home/registration');
     }
 
+    public function message() {
+        $data = $this->model->getMessages();
+        $users =$this->model->getUsers();
+        $this->load_viewmessage('home/message', $data, $users);
+    }
 }
