@@ -4,6 +4,7 @@ Feketedobozos tesztelést használtunk, és a következő eredmény született:
 
 |Dátum|Tesztelő|Tesztelt egység|Tesztelés|Várt eredmény|Kapott eredmény|
 |----------|-----------|-------------------------------|----------------------|---------------------|---------------------|
+| 2021.04.25 | Seres Péter | Navigációs bár | Jobb felső sarokban van egy switch box. Elhúzom. | Megváltozik a weboldal témája(világos/sötét). | Megváltozik a weboldal témája(világos/sötét). |
 | 2021.04.25 | Kerepesi Gergő | Navigációs bár | Belekattintok a fejlécben található regisztrációs menüpontra. | Átlép a regisztrációs oldalra. | Átlép a regisztrációs oldalra. |
 | 2021.04.25 | Kerepesi Gergő | Navigációs bár | Belépett felhasználóként rákattintunk a fejlécen található logout menüpontra. | A rendszer kijelentkeztet minket és a home oldalra irányít át. | A rendszer kijelentkeztet minket és a home oldalra irányít át. |
 | 2021.04.26 | Kerepesi Gergő | Beléptető oldal | Nevet és jelszót megadva rákattintunk a login gombra. | Sikeres belépés esetén az üzenetküldő oldalra irányít át. Sikertelen belépés esetén marad az adott oldalon és hibát ír ki. | Sikeres belépés esetén az üzenetküldő oldalra irányít át. Sikertelen belépés esetén marad az adott oldalon és hibát ír ki. |
