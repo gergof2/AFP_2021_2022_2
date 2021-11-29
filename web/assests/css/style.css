@@ -10,3 +10,32 @@
 	width: 80%;
 	padding: 10px;
 	text-align: center;
+}
+
+html[data-theme = 'dark']{
+	height: 100%;
+	background: black;
+}
+html{
+	height: 100%;
+	background-color: #D5E1F0
+}
+nav[data-theme = 'dark']{
+	background-color: black;
+	color: white;
+}
+nav{
+	background-color: #CAD5E2;
+	color: #6A1B4D;
+}
+
+*,*:before,*:after{
+	box-sizing: border-box;
+}
+body[data-theme = 'dark']{
+	margin: 0;
+	display: grid;
+	background: none;
+	color: white;
+}
+
